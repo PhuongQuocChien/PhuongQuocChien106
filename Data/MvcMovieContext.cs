@@ -13,4 +13,6 @@ using PhuonQuocChien106.Models;
         }
 
         public DbSet<PhuonQuocChien106.Models.UniversityPQC106> UniversityPQC106 { get; set; } = default!;
+
+        public DbSet<PhuonQuocChien106.Models.PQC0106> PQC0106 { get; set; } = default!;
     }

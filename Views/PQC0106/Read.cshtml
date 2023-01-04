@@ -1,0 +1,30 @@
+@model PhuonQuocChien106.Models.PQC0106
+
+@{
+    ViewData["Title"] = "Read";
+}
+
+<h1>Trang đọc</h1>
+
+<div>
+    <h4>PQC0106</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PQCName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PQCName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PQCGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PQCGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PQCId">Sửa</a> |
+    <a asp-action="Index">Quay lại</a>
+</div>

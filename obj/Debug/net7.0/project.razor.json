@@ -16570,6 +16570,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\PQC0106\\Delete.cshtml",
+      "TargetPath": "Views\\PQC0106\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\UniversityPQC106\\Edit.cshtml",
       "TargetPath": "Views\\UniversityPQC106\\Edit.cshtml",
       "FileKind": "mvc"
@@ -16585,8 +16590,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\PQC0106\\Edit.cshtml",
+      "TargetPath": "Views\\PQC0106\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\PQC0106\\Read.cshtml",
+      "TargetPath": "Views\\PQC0106\\Read.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\PQC0106\\Create.cshtml",
+      "TargetPath": "Views\\PQC0106\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16597,6 +16617,11 @@
     {
       "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NetCoreMVC\\PhuonQuocChien106\\Views\\PQC0106\\Index.cshtml",
+      "TargetPath": "Views\\PQC0106\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

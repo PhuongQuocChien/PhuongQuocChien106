@@ -24,6 +24,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/NetCoreMVC/PhuonQuocChien106/Views/PQC0106/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFDMDEwNlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/PhuonQuocChien106/Views/PQC0106/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFDMDEwNlxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/PhuonQuocChien106/Views/PQC0106/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFDMDEwNlxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/PhuonQuocChien106/Views/PQC0106/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFDMDEwNlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/PhuonQuocChien106/Views/PQC0106/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFDMDEwNlxSZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/NetCoreMVC/PhuonQuocChien106/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
